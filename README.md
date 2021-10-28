@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @carlbeattie2000
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python
+- I'm 20 years of age
+- 👀 I’m interested in backend development
+- 🌱 I'm currently improving my python and javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 12beattiecastp@gmail.com
 
