@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlbeattie2000
 - :calendar: I'm 20 years of age
-- 👀 I’m interested in backend development
+- 👀 I’m interested in web development
 - 🌱 I'm currently improving my Python and Javascript
 - 💞️ I’m looking to collaborate on open source projects, and or work.
 - 📫 How to reach me 12beattiecastp@gmail.com
