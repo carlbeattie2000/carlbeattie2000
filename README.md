@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @carlbeattie2000
-- :calendar: I'm 21 years old
-- 👀 I’m interested in web development
-- 🌱 I'm currently improving my Javascript
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me 12beattiecastp@gmail.com
-
-<!---
-carlbeattie2000/carlbeattie2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Carl! I'm a 22-year-old software engineer from London who is passionate about learning and building new things. While I may not have professional experience in the tech industry, I have spent a lot of time learning about software engineering and am always eager to continue learning and improving my skills. I have experience with JavaScript and Node.js, and am excited to continue growing and contributing to the tech community through my work on GitHub. In my free time, you can find me tinkering with new technologies and projects, or spending time with friends and family.
